@@ -1,0 +1,49 @@
+div{
+    height: 60px;
+    width: 250px;
+    background-color: pink;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: brown;
+    text-align: center;
+    border-radius: 14px;
+}
+h2{
+    padding: 40px;
+    font-family: Arial;
+    font-weight: 100;
+    font-style: inherit;
+    text-transform: capitalize;
+    background-color: sandybrown;
+    text-align: center;
+    margin: 10%;
+    }
+#circle{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border : 2px solid black;
+    text-align: center;
+    padding: 10%;
+    /* padding-left: 40px;
+    padding-top: 40px;
+     */
+}
+p{
+    /* border-color: red;
+    border-width: 2px;
+    
+    border-style: double; */
+    /*all the above text covered in line*/
+    border : 2px dashed black;
+    text-align: center;
+    margin: 5%;
+} 
+#ex{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-color: red;
+    border-style: double;
+    border-radius: 50%;
+}
